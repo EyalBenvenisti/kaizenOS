@@ -1,6 +1,6 @@
-- title: Getting started
+- title: About
   pages:
-    - path: /getting-started
+    - path: /about
 - title: Demo
   pages:
     - path: /demo
