@@ -24,7 +24,7 @@ module.exports = {
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
-            'https://github.com/my-carbon-site/',
+            'https://github.com/EyalBenvenisti/my-carbon-site/',
           subDirectory: '/packages/example',
         },
       },
