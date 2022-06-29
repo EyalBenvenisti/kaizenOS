@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Theme Carbon',
-    description: 'A Gatsby theme for the carbon design system',
-    keywords: 'gatsby,theme,carbon',
+    title: 'Eyal Benvenisti Portfolio',
+    description: 'Another website on the web',
+    keywords: 'eyal benvenisti, portfolio',
   },
   pathPrefix: `/gtc`,
   plugins: [
@@ -24,7 +24,7 @@ module.exports = {
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
-            'https://github.com/carbon-design-system/gatsby-theme-carbon',
+            'https://github.com/my-carbon-site/',
           subDirectory: '/packages/example',
         },
       },
