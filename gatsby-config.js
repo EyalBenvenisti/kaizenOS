@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Eyal Benvenisti Portfolio',
+    title: 'Eyal Benvenisti | Designer',
     description: 'Another website on the web',
     keywords: 'eyal benvenisti, portfolio',
   },

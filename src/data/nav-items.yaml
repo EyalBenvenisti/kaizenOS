@@ -1,13 +1,24 @@
 - title: Getting started
   pages:
-    - path: /getting-started
+    - title: Introduction
+      path: /Introduction
+    - title: About me
+      path: /about
+    - title: FAQ
+      path: /faq
+
+    - title: Fav Tools
+      path: /tools
 - title: Projects
   pages:
     - title: UbuntuTouch
       path: /projects
-- title: Contributions
-  pages:
-    - path: /contributions
+    - title: Beyond Benefits
+      path: /projects/beyondbenefits
+    - title: WintWi
+      path: /projects/wintwi
+    - title: Financi
+      path: /projects/financi
 - title: Guides
   pages:
     - title: Authoring MDX
