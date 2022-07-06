@@ -21,6 +21,8 @@ module.exports = {
     {
       resolve: 'gatsby-theme-carbon',
       options: {
+        isSwitcherEnabled: 'false',
+        titleType: 'append',
         theme: {
           homepage: 'dark',
           interior: 'dark',
