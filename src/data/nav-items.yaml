@@ -1,18 +1,17 @@
 - title: About
   pages:
+    - title: About
+      path: /about
     - title: Introduction
       path: /Introduction
-    - title: About me
-      path: /about
     - title: FAQ
       path: /faq
-
     - title: Fav Tools
       path: /tools
 - title: Projects
   pages:
     - title: UbuntuTouch
-      path: /projects
+      path: /projects/ubuntutouch
     - title: Beyond Benefits
       path: /projects/beyondbenefits
     - title: WintWi
