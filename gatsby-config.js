@@ -1,11 +1,10 @@
 module.exports = {
-  pathPrefix: "/my-carbon-site",
+  pathPrefix: '/my-carbon-site',
   siteMetadata: {
     title: 'Eyal Benvenisti | Designer',
     description: 'Another website on the web',
     keywords: 'eyal benvenisti, portfolio',
   },
-  pathPrefix: `/gtc`,
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
