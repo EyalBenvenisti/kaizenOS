@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Eyal Benvenisti Portfolio',
+    title: 'Eyal Benvenisti | Designer',
     description: 'Another website on the web',
     keywords: 'eyal benvenisti, portfolio',
   },
@@ -21,6 +21,12 @@ module.exports = {
     {
       resolve: 'gatsby-theme-carbon',
       options: {
+        isSwitcherEnabled: 'false',
+        titleType: 'append',
+        theme: {
+          homepage: 'dark',
+          interior: 'dark',
+        },
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
