@@ -3,13 +3,18 @@ import ResourceLinks from 'gatsby-theme-carbon/src/components/LeftNav/ResourceLi
 
 const links = [
   {
-    title: 'Github',
-    href: 'https://github.com/carbon-design-system/gatsby-theme-carbon',
+    title: 'GitLab',
+    href: 'https://gitlab.com/kaizenn',
   },
   {
-    title: 'Carbon',
-    href: 'https://www.carbondesignsystem.com',
+    title: 'GitHub',
+    href: 'https://github.com/eyalbenvenisti',
   },
+  {
+    title: 'Behance',
+    href: 'https://www.behance.net/EyalBenvenisti',
+  },
+
   {
     title: 'Configuration guide',
     href: '/guides/configuration',
