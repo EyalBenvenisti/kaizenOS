@@ -19,6 +19,14 @@ module.exports = {
       },
     },
     {
+      resolve: '@mkitio/gatsby-theme-password-protect',
+      options: {
+        partialMatching: true,
+        pagePaths: ['/projects/'],
+        password: 'sUp3rS3cR3t' // delete or `undefined` to disable password protection
+      }
+    },
+    {
       resolve: 'gatsby-theme-carbon',
       options: {
         isSwitcherEnabled: 'false',
