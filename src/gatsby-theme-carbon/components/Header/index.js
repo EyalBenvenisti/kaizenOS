@@ -3,7 +3,7 @@ import Header from 'gatsby-theme-carbon/src/components/Header';
 
 const CustomHeader = (props) => (
   <Header {...props}>
-    <span>Kaizen</span> Benvenisti
+    <span>Eyal (Kaizen)</span> Benvenisti - Building while riding
   </Header>
 );
 

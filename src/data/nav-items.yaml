@@ -1,16 +1,14 @@
 - title: About
   pages:
-    - title: About
-      path: /about
-    - title: Introduction
-      path: /Introduction
-    - title: FAQ
-      path: /faq
-    - title: Fav Tools
-      path: /tools
+    - path: /about
+
+- title: Introduction
+  pages:
+    - path: /introduction
+  hasDivider: true
 - title: Projects
   pages:
-    - title: UbuntuTouch
+    - title: Linux Phone
       path: /projects/ubuntutouch
     - title: Beyond Benefits
       path: /projects/beyondbenefits
@@ -18,3 +16,11 @@
       path: /projects/wintwi
     - title: Financi
       path: /projects/financi
+
+  hasDivider: true
+- title: FAQ
+  pages:
+    - path: /faq
+- title: Design Stack
+  pages:
+    - path: /tools

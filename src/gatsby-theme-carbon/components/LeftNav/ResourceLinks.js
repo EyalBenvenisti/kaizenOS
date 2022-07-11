@@ -12,12 +12,12 @@ const links = [
     href: 'https://www.figma.com/@eyalbenvenisti',
   },
   {
-    title: 'GitLab',
-    href: 'https://gitlab.com/kaizenn',
-  },
-  {
     title: 'GitHub',
     href: 'https://github.com/eyalbenvenisti',
+  },
+  {
+    title: 'GitLab',
+    href: 'https://gitlab.com/kaizenn',
   },
   {
     title: 'Spotify',
