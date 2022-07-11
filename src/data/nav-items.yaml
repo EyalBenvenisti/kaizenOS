@@ -10,12 +10,13 @@
   pages:
     - title: Linux Phone
       path: /projects/ubuntutouch
-    - title: Beyond Benefits
+    - title: Wellness Platform
       path: /projects/beyondbenefits
-    - title: WintWi
+    - title: Water Systems
       path: /projects/wintwi
-    - title: Financi
-      path: /projects/financi
+    - title: Virual Credit Card
+      path: /projects/pluscard
+
 
   hasDivider: true
 - title: FAQ
