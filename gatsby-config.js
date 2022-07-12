@@ -18,14 +18,6 @@ module.exports = {
       },
     },
     {
-      resolve: '@mkitio/gatsby-theme-password-protect',
-      options: {
-        partialMatching: true,
-        pagePaths: ['/projects/'],
-        password: 'shushush'
-      }
-    },
-    {
       resolve: 'gatsby-theme-carbon',
       options: {
         isSwitcherEnabled: 'false',
@@ -37,8 +29,8 @@ module.exports = {
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
-            'https://eyalbenvenisti.github.io',
-          subDirectory: '/packages/example',
+            'https://github.benvenisti.rocks',
+          subDirectory: '/portfolio/',
         },
       },
     },
