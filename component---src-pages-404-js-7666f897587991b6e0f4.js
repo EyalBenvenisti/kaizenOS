@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkexample=self.webpackChunkexample||[]).push([[883],{9616:function(e,t,n){n.r(t);var u=n(7294),a=n(7426),l=[{href:"/",text:"Home"}];t.default=function(){return u.createElement(a.e9,{links:l})}}}]);
+//# sourceMappingURL=component---src-pages-404-js-7666f897587991b6e0f4.js.map
