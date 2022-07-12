@@ -2,7 +2,7 @@
   pages:
     - path: /about
 
-- title: Introduction
+- title: Design Philosophies
   pages:
     - path: /introduction
   hasDivider: true
