@@ -22,7 +22,7 @@ module.exports = {
       options: {
         partialMatching: true,
         pagePaths: ['/projects/'],
-        password: 'sUp3rS3cR3t'
+        password: 'shushush'
       }
     },
     {
@@ -37,7 +37,7 @@ module.exports = {
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
-            'https://github.com/EyalBenvenisti/my-carbon-site/',
+            'https://eyalbenvenisti.github.io',
           subDirectory: '/packages/example',
         },
       },

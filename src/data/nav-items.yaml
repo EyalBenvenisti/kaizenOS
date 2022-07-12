@@ -19,9 +19,9 @@
 
 
   hasDivider: true
-- title: FAQ
+- title: General Questions
   pages:
     - path: /faq
 - title: Design Stack
   pages:
-    - path: /tools
+    - path: /stack

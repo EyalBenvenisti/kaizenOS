@@ -9,7 +9,7 @@ const FirstLeftText = () => <p>Callout component</p>;
 
 const FirstRightText = () => (
   <p>
-
+    Hello
   </p>
 );
 
@@ -17,11 +17,11 @@ const SecondLeftText = () => <p>Callout component</p>;
 
 const SecondRightText = () => (
   <p>
-
+  Hello
   </p>
 );
 
-const BannerText = () => <h1>Hello World,</h1>;
+const BannerText = () => <h1>Building while riding</h1>;
 
 const customProps = {
   Banner: <HomepageBanner renderText={BannerText} image={Carbon} />,
