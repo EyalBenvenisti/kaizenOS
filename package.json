@@ -10,7 +10,7 @@
     "build:clean": "yarn clean && gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "deploy": "gatsby build && gh-pages -d public"
   },
   "dependencies": {
     "@mkitio/gatsby-theme-password-protect": "^2.1.2",

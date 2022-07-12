@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: '/my-carbon-site',
   siteMetadata: {
     title: 'Eyal Benvenisti | Designer',
     description: 'Another website on the web',
@@ -23,7 +22,7 @@ module.exports = {
       options: {
         partialMatching: true,
         pagePaths: ['/projects/'],
-        password: 'sUp3rS3cR3t' 
+        password: 'sUp3rS3cR3t'
       }
     },
     {
