@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: '/my-carbon-site',
   siteMetadata: {
     title: 'Eyal Benvenisti | Designer',
     description: 'Another website on the web',
@@ -19,14 +18,6 @@ module.exports = {
       },
     },
     {
-      resolve: '@mkitio/gatsby-theme-password-protect',
-      options: {
-        partialMatching: true,
-        pagePaths: ['/projects/'],
-        password: 'sUp3rS3cR3t' 
-      }
-    },
-    {
       resolve: 'gatsby-theme-carbon',
       options: {
         isSwitcherEnabled: 'false',
@@ -38,8 +29,8 @@ module.exports = {
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
-            'https://github.com/EyalBenvenisti/my-carbon-site/',
-          subDirectory: '/packages/example',
+            'https://github.benvenisti.rocks',
+          subDirectory: '/portfolio/',
         },
       },
     },
