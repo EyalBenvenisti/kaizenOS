@@ -18,6 +18,14 @@ module.exports = {
       },
     },
     {
+      resolve: '@mkitio/gatsby-theme-password-protect',
+      options: {
+        partialMatching: true,
+        pagePaths: ['/projects/'],
+        password: 'easy2pwned'
+      }
+    },
+    {
       resolve: 'gatsby-theme-carbon',
       options: {
         isSwitcherEnabled: 'false',
