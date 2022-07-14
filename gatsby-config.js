@@ -26,6 +26,14 @@ module.exports = {
       }
     },
     {
+    resolve: `gatsby-plugin-hotjar-tracking`,
+    options: {
+      includeInDevelopment: false,
+      id: 3065121,
+      sv: 5
+    },
+  },
+    {
       resolve: 'gatsby-theme-carbon',
       options: {
         isSwitcherEnabled: 'false',
