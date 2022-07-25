@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkexample=self.webpackChunkexample||[]).push([[903],{8011:function(n,t,e){e.r(t),e.d(t,{_frontmatter:function(){return c},default:function(){return f}});var o=e(3366),r=(e(7294),e(4983)),u=e(7160),a=["components"],c={},s={_frontmatter:c},p=u.Z;function f(n){var t=n.components,e=(0,o.Z)(n,a);return(0,r.kt)(p,Object.assign({},s,e,{components:t,mdxType:"MDXLayout"}))}f.isMDXComponent=!0}}]);
+//# sourceMappingURL=component---src-pages-projects-financi-mdx-bb0a0dc1f88adbeaa2cc.js.map
